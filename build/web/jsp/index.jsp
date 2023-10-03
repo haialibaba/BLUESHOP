@@ -7,7 +7,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Welcome to Spring Web project</title>
         <link rel="stylesheet" type="text/css" href="../assets/css/style.css">
-        <link rel="stylesheet" href="../fontawesome-free-5.15.4-web/fontawesome-free-5.15.4-web/css/all.min.css">
+        <link rel="stylesheet" href="../assets/fontawesome-free-5.15.4-web/fontawesome-free-5.15.4-web/css/all.min.css">
     </head>
 <body>
     <jsp:include page="../jsp/header.jsp" />
