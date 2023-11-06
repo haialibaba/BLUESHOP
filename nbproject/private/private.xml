@@ -3,8 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/j2ee_project/web/jsp/index.jsp</file>
-            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/j2ee_project/src/java/ketnoi.java</file>
+            <file>file:/home/axo/Downloads/webBH/web/JSP/index.jsp</file>
+            <file>file:/home/axo/Downloads/webBH/src/java/Account_module/AcountModel.java</file>
+            <file>file:/home/axo/Downloads/webBH/web/JSP/product_details.jsp</file>
+            <file>file:/home/axo/Downloads/webBH/web/JSP/showAccount.jsp</file>
+            <file>file:/home/axo/Downloads/webBH/web/Component/menu1.jsp</file>
+            <file>file:/home/axo/Downloads/webBH/src/java/dao/PaymentDAO.java</file>
+            <file>file:/home/axo/Downloads/webBH/web/Component/header.jsp</file>
+            <file>file:/home/axo/Downloads/webBH/web/JSP/Register.jsp</file>
+            <file>file:/home/axo/Downloads/webBH/src/java/Account_module/LoginControl.java</file>
+            <file>file:/home/axo/Downloads/webBH/web/Component/header_1.jsp</file>
+            <file>file:/home/axo/Downloads/webBH/web/Component/menu.jsp</file>
+            <file>file:/home/axo/Downloads/webBH/web/JSP/Profile.jsp</file>
+            <file>file:/home/axo/Downloads/webBH/src/java/Account_module/Account.java</file>
         </group>
     </open-files>
 </project-private>

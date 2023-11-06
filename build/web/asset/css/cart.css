@@ -1,0 +1,172 @@
+ body{
+    --bg-primary-btn: var(--color-bg-brand, #0d99ff);
+ }
+/* header */
+.header{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+.header img{
+    padding-left: 145px;
+    padding-top: 5px;
+    width: 200px;
+    height: 50px;
+}
+.header a{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+}
+
+.header input{
+    width: 400px;
+    height: 25px;
+    outline: none;
+}
+
+.header button{
+    width: 80px;
+    height: 30px;
+
+    color: white;
+    background-color: var(--bg-primary-btn);
+
+    border: none;
+}
+/* menu */
+.menu{
+    width: 100%;
+    height: 70px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+.menu ul{
+    display: flex;
+}
+.menu ul li{
+    margin-top: 15px;
+    margin-left: 109px ;
+    list-style: none;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+}
+.info{
+    width: 800px;
+    height: 70px;
+    
+    margin-left: 180px;
+    margin-top: 20px;
+    
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    align-items: center;
+    
+    font-size: 20px;
+}
+.info input{
+    outline: none;
+    margin-left: 30px;
+    width: 350px;
+    height: 25px;
+}
+/* Cart */
+.list-cart
+{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.list-cart table{
+    width: 75vw;
+    height: 35px;  
+}
+.list-cart table, td, th{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    text-align: center;
+    border-collapse: collapse;
+}
+.list-cart table, th{
+    padding-bottom: 17px;
+    font-size: 15px;
+}
+.list-cart .button{
+    background-color: red;
+    color: white;
+
+    border: none;
+    border-radius: 5px;
+
+    cursor: pointer;
+
+    width: 50px;
+    height: 40px;
+}
+.list-cart .input{
+    width: 30px;
+    height: 30px;
+}
+.list-cart .image{
+    width: 170px;
+    height: 150px;
+}
+/* Total */
+.total{
+    display: flex;
+    justify-content: center;
+}
+.total .left, .right{
+    margin-top: 50px;
+    width: 560px;
+    height: 250px;
+}
+.total .left input{
+    width: 300px;
+    height: 35px;
+    outline: none;
+}
+.total .left button{
+    width: 70px;
+    height: 40px;
+
+    color: white;
+    background-color: var(--bg-primary-btn);
+    
+    border: none;
+    cursor: pointer;
+}
+.total .right{
+    font-size: 12px;
+}
+.total .right .title-total{
+    display: flex;
+    justify-content: right;
+}
+.total .right .title-total .title1{
+    position: absolute;
+    margin-right: 285px;
+}
+.total .right button{
+    width: 389px;
+    height: 40px;
+    font-size: 15px;
+
+    color: white;
+    background-color: var(--bg-primary-btn);
+    
+    border: none;
+    cursor: pointer;
+}
+.total .right .btnPayment{
+    padding-left: 170px;
+}
+
+
+
